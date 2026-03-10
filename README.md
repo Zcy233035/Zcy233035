@@ -1,6 +1,9 @@
-- 👋 Hi, I’m chenyu.
+👋 Hi, I’m chenyu.
 
-- 📫 How to reach me
+📫 How to reach me
       chenyuzhu9-c@my.cityu.edu.hk
+   My personal website
+  **https://zcy233035.github.io/**
+  
 
 
